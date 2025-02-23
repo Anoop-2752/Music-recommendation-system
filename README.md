@@ -31,5 +31,45 @@ The Music Recommender System is a machine learning-based application that sugges
 │── 📜 requirements.txt      
 
 ```
+## How to Run the Project
+
+### Step 1: Clone the Repository
+
+```bash
+git clone https://github.com/yourusername/Music-Recommender-System.git
+cd Music-Recommender-System
+```
+
+### Step 2: Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Step 3: Run the Application
+
+```bash
+streamlit run app.py
+```
+
+## 📈 Future Enhancements  
+🔹 **User-Based Recommendations** – Implement collaborative filtering to suggest songs based on user preferences.  
+🔹 **Playlist Generation** – Automatically generate playlists based on mood, genre, or activity.  
+🔹 **Sentiment Analysis on Lyrics** – Analyze song lyrics to provide mood-based recommendations.  
+🔹 **Voice Search Feature** – Allow users to search for songs using voice commands.  
+🔹 **Integration with More APIs** – Enhance recommendations by integrating Last.fm or Genius APIs.  
+
+---
+
+## 🤝 Contribution  
+We welcome contributions! Follow these steps to contribute:  
+
+1️⃣ **Fork the Repository** – Click the fork button on GitHub.  
+2️⃣ **Clone the Repository** –  
+   ```bash
+   git clone https://github.com/your-username/Music-Recommender-System.git
+   cd Music-Recommender-System
+  ```
+Feel free to contribute and enhance this project!
 
 
